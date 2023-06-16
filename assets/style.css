@@ -34,7 +34,7 @@ main {
   font-size: 20pt;
 }
 
-header {
+body > header {
   display: grid;
   grid-template-columns: 1fr;
   align-content: start;
